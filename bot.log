@@ -1,0 +1,166 @@
+2025-03-27 21:44:57,880 - INFO - __main__ - Bot started
+2025-03-27 21:44:58,069 - INFO - aiogram.dispatcher - Start polling
+2025-03-27 21:44:58,178 - INFO - aiogram.dispatcher - Run polling for bot @Budet_Blestet24_bot id=8086867586 - 'Budet_Blestet24'
+2025-03-27 21:45:09,348 - INFO - aiogram.event - Update id=641672916 is not handled. Duration 31 ms by bot id=8086867586
+2025-03-27 21:45:32,695 - INFO - aiogram.event - Update id=641672917 is not handled. Duration 0 ms by bot id=8086867586
+2025-03-27 21:45:54,661 - INFO - aiogram.event - Update id=641672918 is not handled. Duration 61 ms by bot id=8086867586
+2025-03-27 21:47:22,167 - INFO - aiogram.event - Update id=641672919 is handled. Duration 405 ms by bot id=8086867586
+2025-03-27 21:47:30,692 - INFO - aiogram.event - Update id=641672920 is handled. Duration 140 ms by bot id=8086867586
+2025-03-27 21:47:39,315 - INFO - aiogram.event - Update id=641672921 is handled. Duration 172 ms by bot id=8086867586
+2025-03-27 21:47:42,676 - INFO - aiogram.event - Update id=641672922 is not handled. Duration 0 ms by bot id=8086867586
+2025-03-27 21:47:43,636 - INFO - aiogram.event - Update id=641672923 is handled. Duration 140 ms by bot id=8086867586
+2025-03-27 21:47:46,999 - INFO - aiogram.event - Update id=641672924 is handled. Duration 219 ms by bot id=8086867586
+2025-03-27 21:49:11,716 - INFO - aiogram.event - Update id=641672925 is not handled. Duration 0 ms by bot id=8086867586
+2025-03-27 21:49:30,781 - INFO - aiogram.event - Update id=641672926 is handled. Duration 140 ms by bot id=8086867586
+2025-03-27 21:49:31,849 - INFO - aiogram.event - Update id=641672927 is not handled. Duration 16 ms by bot id=8086867586
+2025-03-27 21:50:53,516 - INFO - aiogram.event - Update id=641672928 is not handled. Duration 0 ms by bot id=8086867586
+2025-03-27 21:52:03,147 - INFO - __main__ - Bot started
+2025-03-27 21:52:03,342 - INFO - aiogram.dispatcher - Start polling
+2025-03-27 21:52:03,478 - INFO - aiogram.dispatcher - Run polling for bot @Budet_Blestet24_bot id=8086867586 - 'Budet_Blestet24'
+2025-03-27 21:52:19,944 - INFO - aiogram.event - Update id=641672929 is handled. Duration 609 ms by bot id=8086867586
+2025-03-27 21:53:47,520 - INFO - aiogram.event - Update id=641672930 is not handled. Duration 0 ms by bot id=8086867586
+2025-03-27 21:54:24,281 - INFO - aiogram.event - Update id=641672931 is not handled. Duration 0 ms by bot id=8086867586
+2025-03-27 21:57:42,541 - INFO - __main__ - Bot started
+2025-03-27 21:57:42,718 - INFO - aiogram.dispatcher - Start polling
+2025-03-27 21:57:42,849 - INFO - aiogram.dispatcher - Run polling for bot @Budet_Blestet24_bot id=8086867586 - 'Budet_Blestet24'
+2025-03-27 21:58:31,086 - INFO - aiogram.event - Update id=641672932 is not handled. Duration 16 ms by bot id=8086867586
+2025-03-27 21:59:16,916 - INFO - aiogram.event - Update id=641672933 is not handled. Duration 0 ms by bot id=8086867586
+2025-03-27 21:59:34,769 - INFO - aiogram.event - Update id=641672934 is not handled. Duration 15 ms by bot id=8086867586
+2025-03-27 22:06:51,786 - INFO - aiogram.event - Update id=641672935 is handled. Duration 437 ms by bot id=8086867586
+2025-03-27 22:07:03,024 - INFO - aiogram.event - Update id=641672936 is handled. Duration 217 ms by bot id=8086867586
+2025-03-27 22:07:11,090 - INFO - aiogram.event - Update id=641672937 is handled. Duration 203 ms by bot id=8086867586
+2025-03-27 22:07:14,666 - INFO - aiogram.event - Update id=641672938 is handled. Duration 344 ms by bot id=8086867586
+2025-03-27 22:07:18,729 - INFO - aiogram.event - Update id=641672939 is handled. Duration 219 ms by bot id=8086867586
+2025-03-27 22:07:21,721 - INFO - aiogram.event - Update id=641672940 is handled. Duration 140 ms by bot id=8086867586
+2025-03-27 22:07:23,388 - INFO - aiogram.event - Update id=641672941 is handled. Duration 170 ms by bot id=8086867586
+2025-03-27 22:07:24,506 - INFO - aiogram.event - Update id=641672942 is handled. Duration 187 ms by bot id=8086867586
+2025-03-27 22:07:31,509 - INFO - aiogram.event - Update id=641672943 is handled. Duration 155 ms by bot id=8086867586
+2025-03-27 22:07:43,753 - INFO - aiogram.event - Update id=641672944 is handled. Duration 155 ms by bot id=8086867586
+2025-03-27 22:09:16,111 - INFO - __main__ - Bot started
+2025-03-27 22:09:16,277 - INFO - aiogram.dispatcher - Start polling
+2025-03-27 22:09:16,403 - INFO - aiogram.dispatcher - Run polling for bot @Budet_Blestet24_bot id=8086867586 - 'Budet_Blestet24'
+2025-03-27 22:09:41,317 - INFO - aiogram.event - Update id=641672945 is not handled. Duration 0 ms by bot id=8086867586
+2025-03-27 22:31:07,228 - INFO - aiogram.event - Update id=641672946 is handled. Duration 1547 ms by bot id=8086867586
+2025-03-27 22:31:17,351 - INFO - aiogram.event - Update id=641672947 is handled. Duration 827 ms by bot id=8086867586
+2025-03-27 22:31:21,882 - INFO - aiogram.event - Update id=641672948 is handled. Duration 140 ms by bot id=8086867586
+2025-03-27 22:31:25,317 - INFO - aiogram.event - Update id=641672949 is handled. Duration 1531 ms by bot id=8086867586
+2025-03-27 22:31:44,470 - INFO - aiogram.event - Update id=641672950 is handled. Duration 187 ms by bot id=8086867586
+2025-03-27 22:31:51,793 - INFO - aiogram.event - Update id=641672951 is handled. Duration 312 ms by bot id=8086867586
+2025-03-27 22:31:56,036 - INFO - aiogram.event - Update id=641672952 is handled. Duration 202 ms by bot id=8086867586
+2025-03-27 22:32:01,861 - INFO - aiogram.event - Update id=641672953 is handled. Duration 655 ms by bot id=8086867586
+2025-03-27 22:32:08,608 - INFO - aiogram.event - Update id=641672954 is handled. Duration 140 ms by bot id=8086867586
+2025-03-27 22:32:25,650 - INFO - aiogram.event - Update id=641672955 is handled. Duration 609 ms by bot id=8086867586
+2025-03-27 22:33:36,414 - INFO - aiogram.event - Update id=641672956 is handled. Duration 312 ms by bot id=8086867586
+2025-03-27 22:33:40,560 - INFO - aiogram.event - Update id=641672957 is handled. Duration 172 ms by bot id=8086867586
+2025-03-27 22:34:03,442 - INFO - aiogram.event - Update id=641672958 is handled. Duration 156 ms by bot id=8086867586
+2025-03-27 22:34:14,962 - INFO - aiogram.event - Update id=641672959 is handled. Duration 140 ms by bot id=8086867586
+2025-03-27 22:34:19,535 - INFO - aiogram.event - Update id=641672960 is handled. Duration 532 ms by bot id=8086867586
+2025-03-27 22:34:38,630 - INFO - aiogram.event - Update id=641672961 is handled. Duration 217 ms by bot id=8086867586
+2025-03-27 22:36:30,951 - INFO - aiogram.event - Update id=641672962 is not handled. Duration 15 ms by bot id=8086867586
+2025-03-27 22:36:40,569 - INFO - aiogram.event - Update id=641672963 is handled. Duration 125 ms by bot id=8086867586
+2025-03-27 22:36:48,413 - INFO - aiogram.event - Update id=641672964 is handled. Duration 157 ms by bot id=8086867586
+2025-03-27 22:37:29,459 - INFO - aiogram.event - Update id=641672965 is handled. Duration 172 ms by bot id=8086867586
+2025-03-28 00:06:29,822 - ERROR - aiogram.dispatcher - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-03-28 00:06:31,126 - WARNING - aiogram.dispatcher - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8086867586)
+2025-03-28 00:06:32,766 - INFO - aiogram.dispatcher - Connection established (tryings = 1, bot id = 8086867586)
+2025-03-28 00:06:35,951 - INFO - aiogram.event - Update id=641672968 is handled. Duration 2375 ms by bot id=8086867586
+2025-03-28 00:06:36,008 - INFO - aiogram.event - Update id=641672967 is handled. Duration 2422 ms by bot id=8086867586
+2025-03-28 00:06:36,154 - INFO - aiogram.event - Update id=641672966 is handled. Duration 2687 ms by bot id=8086867586
+2025-03-28 00:08:35,772 - INFO - aiogram.event - Update id=641672969 is handled. Duration 327 ms by bot id=8086867586
+2025-03-28 00:08:57,915 - INFO - aiogram.event - Update id=641672970 is handled. Duration 125 ms by bot id=8086867586
+2025-03-28 00:09:01,976 - INFO - aiogram.event - Update id=641672971 is handled. Duration 155 ms by bot id=8086867586
+2025-03-28 18:07:38,034 - INFO - __main__ - Bot started
+2025-03-28 18:07:38,326 - INFO - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-28 18:07:38,350 - INFO - apscheduler.scheduler - Added job "check_birthdays" to job store "default"
+2025-03-28 18:07:38,369 - INFO - apscheduler.scheduler - Scheduler started
+2025-03-28 18:07:38,391 - INFO - aiogram.dispatcher - Start polling
+2025-03-28 18:07:38,555 - INFO - aiogram.dispatcher - Run polling for bot @Budet_Blestet24_bot id=8086867586 - 'Budet_Blestet24'
+2025-03-28 18:07:47,007 - INFO - aiogram.event - Update id=641672973 is not handled. Duration 0 ms by bot id=8086867586
+2025-03-28 18:07:57,731 - INFO - aiogram.event - Update id=641672974 is handled. Duration 391 ms by bot id=8086867586
+2025-03-28 18:08:06,602 - INFO - aiogram.event - Update id=641672975 is handled. Duration 141 ms by bot id=8086867586
+2025-03-28 18:08:16,324 - INFO - aiogram.event - Update id=641672976 is handled. Duration 313 ms by bot id=8086867586
+2025-03-28 18:08:25,332 - INFO - aiogram.event - Update id=641672977 is handled. Duration 343 ms by bot id=8086867586
+2025-03-28 18:08:45,498 - INFO - aiogram.event - Update id=641672978 is handled. Duration 171 ms by bot id=8086867586
+2025-03-28 18:08:48,426 - INFO - aiogram.event - Update id=641672979 is handled. Duration 233 ms by bot id=8086867586
+2025-03-28 18:08:56,807 - INFO - aiogram.event - Update id=641672980 is not handled. Duration 0 ms by bot id=8086867586
+2025-03-28 18:09:01,697 - INFO - aiogram.event - Update id=641672981 is not handled. Duration 0 ms by bot id=8086867586
+2025-03-28 18:09:16,549 - INFO - aiogram.event - Update id=641672982 is not handled. Duration 0 ms by bot id=8086867586
+2025-03-28 18:09:35,428 - INFO - aiogram.event - Update id=641672983 is not handled. Duration 0 ms by bot id=8086867586
+2025-03-28 18:10:23,154 - INFO - aiogram.event - Update id=641672984 is handled. Duration 139 ms by bot id=8086867586
+2025-03-28 18:10:25,987 - INFO - aiogram.event - Update id=641672985 is not handled. Duration 0 ms by bot id=8086867586
+2025-03-28 18:10:27,576 - INFO - aiogram.event - Update id=641672986 is not handled. Duration 14 ms by bot id=8086867586
+2025-03-28 18:10:29,465 - INFO - aiogram.event - Update id=641672987 is not handled. Duration 0 ms by bot id=8086867586
+2025-03-28 18:10:30,918 - INFO - aiogram.event - Update id=641672988 is not handled. Duration 0 ms by bot id=8086867586
+2025-03-28 18:11:30,784 - INFO - aiogram.event - Update id=641672989 is handled. Duration 296 ms by bot id=8086867586
+2025-03-28 18:11:33,688 - INFO - aiogram.event - Update id=641672990 is handled. Duration 218 ms by bot id=8086867586
+2025-03-28 18:11:35,786 - INFO - aiogram.event - Update id=641672991 is handled. Duration 250 ms by bot id=8086867586
+2025-03-28 18:11:50,694 - INFO - aiogram.event - Update id=641672992 is handled. Duration 250 ms by bot id=8086867586
+2025-03-28 18:20:41,495 - INFO - __main__ - Bot started
+2025-03-28 18:20:41,701 - INFO - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-28 18:20:41,705 - INFO - apscheduler.scheduler - Added job "check_birthdays" to job store "default"
+2025-03-28 18:20:41,706 - INFO - apscheduler.scheduler - Scheduler started
+2025-03-28 18:20:41,706 - INFO - aiogram.dispatcher - Start polling
+2025-03-28 18:20:41,812 - INFO - aiogram.dispatcher - Run polling for bot @Budet_Blestet24_bot id=8086867586 - 'Budet_Blestet24'
+2025-03-28 18:20:56,562 - INFO - aiogram.event - Update id=641672993 is handled. Duration 327 ms by bot id=8086867586
+2025-03-28 18:20:59,927 - INFO - aiogram.event - Update id=641672994 is handled. Duration 250 ms by bot id=8086867586
+2025-03-28 18:21:01,097 - INFO - aiogram.event - Update id=641672995 is handled. Duration 188 ms by bot id=8086867586
+2025-03-28 18:21:03,039 - INFO - aiogram.event - Update id=641672996 is handled. Duration 171 ms by bot id=8086867586
+2025-03-28 18:21:05,251 - ERROR - __main__ - Process delete promotion error: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=ReplyKeyboardMarkup(keybo...er=None, selective=None), input_type=ReplyKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.10/v/model_type
+2025-03-28 18:21:05,452 - INFO - aiogram.event - Update id=641672997 is handled. Duration 266 ms by bot id=8086867586
+2025-03-28 18:21:10,209 - ERROR - __main__ - Process delete promotion error: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=ReplyKeyboardMarkup(keybo...er=None, selective=None), input_type=ReplyKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.10/v/model_type
+2025-03-28 18:21:10,316 - INFO - aiogram.event - Update id=641672998 is handled. Duration 125 ms by bot id=8086867586
+2025-03-28 18:21:13,489 - ERROR - __main__ - Process delete promotion error: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=ReplyKeyboardMarkup(keybo...er=None, selective=None), input_type=ReplyKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.10/v/model_type
+2025-03-28 18:21:13,603 - INFO - aiogram.event - Update id=641672999 is handled. Duration 125 ms by bot id=8086867586
+2025-03-28 18:23:08,316 - INFO - aiogram.event - Update id=641673000 is handled. Duration 171 ms by bot id=8086867586
+2025-03-28 18:23:23,790 - INFO - aiogram.event - Update id=641673001 is handled. Duration 156 ms by bot id=8086867586
+2025-03-28 18:23:43,467 - INFO - aiogram.event - Update id=641673002 is handled. Duration 156 ms by bot id=8086867586
+2025-03-28 18:24:39,706 - INFO - aiogram.event - Update id=641673003 is handled. Duration 1093 ms by bot id=8086867586
+2025-03-28 18:25:30,550 - INFO - aiogram.event - Update id=641673004 is handled. Duration 186 ms by bot id=8086867586
+2025-03-28 18:25:36,003 - INFO - aiogram.event - Update id=641673005 is handled. Duration 171 ms by bot id=8086867586
+2025-03-28 18:31:34,314 - INFO - __main__ - Bot started
+2025-03-28 18:31:34,527 - INFO - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-28 18:31:34,529 - INFO - apscheduler.scheduler - Added job "check_birthdays" to job store "default"
+2025-03-28 18:31:34,529 - INFO - apscheduler.scheduler - Scheduler started
+2025-03-28 18:31:34,530 - INFO - aiogram.dispatcher - Start polling
+2025-03-28 18:31:34,639 - INFO - aiogram.dispatcher - Run polling for bot @Budet_Blestet24_bot id=8086867586 - 'Budet_Blestet24'
+2025-03-28 18:31:43,333 - INFO - aiogram.event - Update id=641673006 is not handled. Duration 0 ms by bot id=8086867586
+2025-03-28 18:31:49,123 - INFO - aiogram.event - Update id=641673007 is not handled. Duration 0 ms by bot id=8086867586
+2025-03-28 18:32:15,651 - INFO - aiogram.event - Update id=641673008 is handled. Duration 360 ms by bot id=8086867586
+2025-03-28 18:32:17,802 - INFO - aiogram.event - Update id=641673009 is handled. Duration 156 ms by bot id=8086867586
+2025-03-28 18:32:22,874 - INFO - aiogram.event - Update id=641673010 is handled. Duration 139 ms by bot id=8086867586
+2025-03-28 18:32:32,273 - INFO - aiogram.event - Update id=641673011 is handled. Duration 156 ms by bot id=8086867586
+2025-03-28 18:33:48,009 - INFO - aiogram.event - Update id=641673012 is not handled. Duration 15 ms by bot id=8086867586
+2025-03-28 18:33:59,907 - INFO - aiogram.event - Update id=641673013 is not handled. Duration 0 ms by bot id=8086867586
+2025-03-28 18:35:23,418 - INFO - aiogram.event - Update id=641673014 is handled. Duration 139 ms by bot id=8086867586
+2025-03-28 18:39:55,150 - INFO - aiogram.event - Update id=641673015 is handled. Duration 171 ms by bot id=8086867586
+2025-03-28 18:40:06,396 - INFO - aiogram.event - Update id=641673016 is handled. Duration 234 ms by bot id=8086867586
+2025-03-28 18:40:12,590 - INFO - aiogram.event - Update id=641673017 is handled. Duration 125 ms by bot id=8086867586
+2025-03-28 18:40:20,398 - INFO - aiogram.event - Update id=641673018 is handled. Duration 156 ms by bot id=8086867586
+2025-03-28 18:40:25,364 - INFO - aiogram.event - Update id=641673019 is handled. Duration 141 ms by bot id=8086867586
+2025-03-28 18:40:27,327 - INFO - aiogram.event - Update id=641673020 is handled. Duration 218 ms by bot id=8086867586
+2025-03-28 18:40:28,977 - INFO - aiogram.event - Update id=641673021 is handled. Duration 156 ms by bot id=8086867586
+2025-03-28 18:40:34,521 - INFO - aiogram.event - Update id=641673022 is handled. Duration 172 ms by bot id=8086867586
+2025-03-28 18:41:10,778 - INFO - aiogram.event - Update id=641673023 is handled. Duration 171 ms by bot id=8086867586
+2025-03-28 18:41:15,263 - INFO - aiogram.event - Update id=641673024 is handled. Duration 141 ms by bot id=8086867586
+2025-03-28 18:41:17,401 - INFO - aiogram.event - Update id=641673025 is handled. Duration 140 ms by bot id=8086867586
+2025-03-28 20:19:50,531 - INFO - aiogram.event - Update id=641673026 is handled. Duration 389 ms by bot id=8086867586
+2025-03-28 20:19:57,107 - INFO - aiogram.event - Update id=641673027 is handled. Duration 171 ms by bot id=8086867586
+2025-03-28 20:19:59,024 - INFO - aiogram.event - Update id=641673028 is handled. Duration 235 ms by bot id=8086867586
+2025-03-31 15:08:32,884 - ERROR - aiogram.dispatcher - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-03-31 15:08:33,305 - WARNING - aiogram.dispatcher - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8086867586)
+2025-03-31 15:08:33,308 - WARNING - apscheduler.executors.default - Run time of job "check_birthdays (trigger: cron[hour='9', minute='0'], next run at: 2025-03-31 09:00:00 UTC)" was missed by 22:08:33.307901
+2025-03-31 15:08:34,324 - ERROR - aiogram.dispatcher - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-03-31 15:08:34,336 - WARNING - aiogram.dispatcher - Sleep for 1.287780 seconds and try again... (tryings = 1, bot id = 8086867586)
+2025-03-31 15:08:36,106 - ERROR - aiogram.dispatcher - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-03-31 15:08:36,156 - WARNING - aiogram.dispatcher - Sleep for 1.675569 seconds and try again... (tryings = 2, bot id = 8086867586)
+2025-03-31 15:08:37,888 - ERROR - aiogram.dispatcher - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-03-31 15:08:37,901 - WARNING - aiogram.dispatcher - Sleep for 2.214672 seconds and try again... (tryings = 3, bot id = 8086867586)
