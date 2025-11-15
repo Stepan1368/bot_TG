@@ -30,6 +30,7 @@ from config import (
 import asyncio
 import re
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
+from render_config import RENDER, PORT  # Добавьте эту строку
 
 # --- Настройка логирования ---
 logging.basicConfig(
@@ -1061,10 +1062,21 @@ async def on_startup():
     logger.info("Bot started")
     await bot.send_message(ADMIN_ID, "🤖 Бот запущен!")
     schedule_jobs()
+    
+    # Если запущено на Render, настраиваем вебхук
+    if RENDER:
+        webhook_url = f"https://{os.environ.get('RENDER_EXTERNAL_HOSTNAME')}/{BOT_TOKEN}"
+        await bot.set_webhook(webhook_url)
+        logger.info(f"Webhook set to: {webhook_url}")
 
 async def on_shutdown():
     logger.info("Bot stopped")
     scheduler.shutdown()
+    
+    # Если был вебхук, удаляем его
+    if RENDER:
+        await bot.delete_webhook()
+    
     await bot.send_message(ADMIN_ID, "🛑 Бот остановлен!")
     db.close()
 
@@ -1073,8 +1085,34 @@ async def main():
     dp.startup.register(on_startup)
     dp.shutdown.register(on_shutdown)
     
-    await bot.delete_webhook(drop_pending_updates=True)
-    await dp.start_polling(bot)
+    if RENDER:
+        # Для Render: запускаем как веб-приложение
+        from aiogram.webhook.aiohttp_server import SimpleRequestHandler, setup_application
+        from aiohttp import web
+        
+        app = web.Application()
+        webhook_requests_handler = SimpleRequestHandler(
+            dispatcher=dp,
+            bot=bot,
+            secret_token=BOT_TOKEN
+        )
+        
+        webhook_requests_handler.register(app, path=f"/{BOT_TOKEN}")
+        setup_application(app, dp, bot=bot)
+        
+        runner = web.AppRunner(app)
+        await runner.setup()
+        site = web.TCPSite(runner, host='0.0.0.0', port=PORT)
+        await site.start()
+        
+        logger.info(f"Bot started as webhook on port {PORT}")
+        
+        # Бесконечный цикл для поддержания работы
+        await asyncio.Event().wait()
+    else:
+        # Для локальной разработки: polling
+        await bot.delete_webhook(drop_pending_updates=True)
+        await dp.start_polling(bot)
 
 if __name__ == "__main__":
     try:
