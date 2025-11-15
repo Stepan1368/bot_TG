@@ -1076,10 +1076,26 @@ async def main():
     await bot.delete_webhook(drop_pending_updates=True)
     await dp.start_polling(bot)
 
+# В самом конце файла вместо всего блока запуска:
 if __name__ == "__main__":
+    import os
+    
+    setup_routers()
+    
+    async def main():
+        await on_startup()
+        try:
+            await bot.delete_webhook(drop_pending_updates=True)
+            await dp.start_polling(bot)
+        except Exception as e:
+            logger.error(f"Polling error: {e}")
+        finally:
+            await on_shutdown()
+    
     try:
         asyncio.run(main())
     except KeyboardInterrupt:
         logger.info("Bot stopped by keyboard interrupt")
     except Exception as e:
         logger.error(f"Fatal error: {e}")
+
